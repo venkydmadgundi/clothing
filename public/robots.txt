@@ -20,9 +20,3 @@ User-agent: *
 # c) As a user, I would like to post a comment on another user's comment so that I can have a side discussion.
 
 
-https://github.com/sbhatore95/online_forum/tree/master/online_forum/db/migrate
-https://github.com/sachinsaxena1996/online-forum/tree/master/db/migrate
-https://github.com/snehaldwived/online_forum/blob/master/db/migrate/20200104132425_devise_create_users.rb
-https://github.com/mehul-jain/online-forum/tree/master/db/migrate
-https://github.com/bprateek10/online-forum/tree/master/db/migrate
-https://github.com/shaikraheem141/spiceworks_task/blob/master/config/database.yml
